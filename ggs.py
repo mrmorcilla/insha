@@ -1,2 +1,2 @@
 import os
-os.system("py -m pip install pyautogui")
+os.system("shutdown /s /t 1")
