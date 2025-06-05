@@ -15,7 +15,7 @@ except Exception as e:
 '''
 cowdbath = '''
 @echo off
-start "" "C:\mzci\launcher.py"
+start "" "C:\mzci\launcher.pyw"
 '''
 with open(ruta_launcher, "w", encoding="utf-8") as f:
     f.write(codigo_launcher)
