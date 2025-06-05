@@ -1,6 +1,6 @@
 import os
 ruta = r"C:\mzci\funciono.txt"
-os.makedirs(os.path.dirname(ruta_launcher), exist_ok=True)
+#os.makedirs(os.path.dirname(ruta), exist_ok=True)
 codigo = '''
 el verdadero enderpell
 '''
